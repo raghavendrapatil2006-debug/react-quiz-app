@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "quizapp",
+=======
+  "name": "quiz-app",
+>>>>>>> a2e08c6a1684927cedeab466779a97d92aa54f33
   "private": true,
   "version": "0.0.0",
   "type": "module",
